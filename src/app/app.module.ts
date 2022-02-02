@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { Lab1Component } from './labs/lab1/lab1.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { Lab1Component } from './labs/lab1/lab1.component';
     HomeComponent,
     NavbarComponent,
     PageNotFoundComponent,
-    Lab1Component
+    Lab1Component,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
