@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
-import { Lab1Component } from './labs/lab1/lab1.component';
+import { Lab1Component } from './lab1/lab1.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent},
