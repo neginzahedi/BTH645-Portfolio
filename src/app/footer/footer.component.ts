@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
 
-  text = document.lastModified;
+  lastModified = document.lastModified;
   constructor() { }
 
   ngOnInit(): void {
