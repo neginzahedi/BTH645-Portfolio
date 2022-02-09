@@ -6,9 +6,9 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
-import { Lab1Component} from './lab1/lab1.component'
+import { Lab1Component} from './labs/lab1/lab1.component'
 import { FooterComponent } from './footer/footer.component';
-import { Lab2Component } from './lab2/lab2.component';
+import { Lab2Component } from './labs/lab2/lab2.component';
 
 @NgModule({
   declarations: [
