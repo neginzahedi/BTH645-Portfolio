@@ -1,0 +1,16 @@
+.navbar {
+  position: sticky;
+  height: 100px;
+  margin-bottom: 0;
+  width: 100%;
+  background-color: #cbd5f0;
+}
+
+.row {
+  color: #194f92;
+}
+
+.navbar-text {
+  text-align: center;
+  align-items: center;
+}

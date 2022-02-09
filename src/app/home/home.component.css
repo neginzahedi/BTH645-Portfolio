@@ -1,0 +1,11 @@
+h3,
+h5 {
+  color: #312e5f;
+}
+
+.container {
+  width: 100vw;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+}
