@@ -1,0 +1,17 @@
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #312e5f;
+}
+
+h4 span {
+  color: #e3386a;
+  text-shadow: 2px 2px #cbd5f0;
+}
+h5 span {
+  color: #312e5f;
+  text-shadow: 2px 2px #f1e510;
+}
+.col-sm-4 {
+  background-color: #cbd5f093;
+}
