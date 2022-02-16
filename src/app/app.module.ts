@@ -9,6 +9,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 import { Lab1Component} from './lab1/lab1.component'
 import { FooterComponent } from './footer/footer.component';
 import { Lab2Component } from './lab2/lab2.component';
+import { Lab3Component } from './lab3/lab3.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { Lab2Component } from './lab2/lab2.component';
     PageNotFoundComponent,
     Lab1Component,
     FooterComponent,
-    Lab2Component
+    Lab2Component,
+    Lab3Component
   ],
   imports: [
     BrowserModule,
