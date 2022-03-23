@@ -10,6 +10,7 @@ import { Lab1Component} from './lab1/lab1.component'
 import { FooterComponent } from './footer/footer.component';
 import { Lab2Component } from './lab2/lab2.component';
 import { Lab3Component } from './lab3/lab3.component';
+import { Lab4Component } from './lab4/lab4.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { Lab3Component } from './lab3/lab3.component';
     Lab1Component,
     FooterComponent,
     Lab2Component,
-    Lab3Component
+    Lab3Component,
+    Lab4Component
   ],
   imports: [
     BrowserModule,
