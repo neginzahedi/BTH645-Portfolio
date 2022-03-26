@@ -1,6 +1,6 @@
 # BTH645- Matrix Portfolio Website
 
-This is a BTH645 course assignment implemented in Angulr CLI.
+This is a BTH645 course portfolio project implemented in Angulr CLI.
 
 ## Labs
 ### lab1: Web usibility 
