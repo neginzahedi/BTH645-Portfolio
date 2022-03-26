@@ -2,14 +2,13 @@
 
 This is a BTH645 course assignment implemented in Angulr CLI.
 
-### lab1:
-The portfolio website's considered and implemented web usability factors are detailed in this lab. 
+## Labs
+### lab1: Web usibility 
+### lab2: Images in Multimedia
+### lab3: Sound in Multimedia Presentations
+### lab4: Video in Multimedia Presentations
 
-### lab2:
-The importance of images in multimedia with the consideration of usability of web design is demonstrated on this lab.
-
-### lab3:
-### lab4:
-
-### assignment1:
+## Assignments
+### assignment1: Fundamental Multimedia Presentations Concepts
+### assignment2:
 
