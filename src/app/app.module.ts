@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { Lab2Component } from './lab2/lab2.component';
 import { Lab3Component } from './lab3/lab3.component';
 import { Lab4Component } from './lab4/lab4.component';
+import { Assignment1Component } from './assignment1/assignment1.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { Lab4Component } from './lab4/lab4.component';
     FooterComponent,
     Lab2Component,
     Lab3Component,
-    Lab4Component
+    Lab4Component,
+    Assignment1Component
   ],
   imports: [
     BrowserModule,
