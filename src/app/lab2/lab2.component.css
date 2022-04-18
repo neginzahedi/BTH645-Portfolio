@@ -1,0 +1,48 @@
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #312e5f;
+  font-family: "Quicksand", sans-serif;
+}
+
+#title {
+  margin-bottom: 30px;
+}
+
+#imageRow {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+h4 {
+  margin-bottom: 30px;
+}
+h4 span {
+  color: #e3386a;
+  text-shadow: 2px 2px #cbd5f0;
+}
+h5 span {
+  color: #312e5f;
+  text-shadow: 2px 2px #f1e510;
+}
+.col-sm-4 {
+  background-color: #cbd5f093;
+  padding: 1%;
+  margin: 1%;
+  height: 400px;
+  width: 350px;
+}
+
+#image {
+  justify-content: center;
+  display: flex;
+}
+
+#questions {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+#reflection {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
