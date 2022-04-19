@@ -1,1 +1,57 @@
-<p>assignment3 works!</p>
+<!-- container -->
+<div class="container">
+  <!-- row: page description -->
+  <div class="row">
+    <div id="title" class="col-sm-12">
+      <h3>
+        <strong>Assignment 3 - Online Animation using P5.js</strong>
+      </h3>
+      The Practice of Design and develop online animation using P5.js and
+      related technologies is demonstrated on this page.
+    </div>
+  </div>
+  <hr />
+  <!-- row: P5js -->
+  <div id="videoRow" class="row align-items-center justify-content-center">
+    <!-- col-12: title -->
+    <div class="col-12">
+      <h4>
+        <strong><span>p5.js Canvas</span></strong>
+      </h4>
+    </div>
+    <!-- col: canvas -->
+    <div id="mainCanvas" class="col-12"></div>
+    <!-- row - Questions -->
+    <div id="questions" class="col-12">
+      <h4 class="text-justify">
+        <strong
+          ><span
+            >sketch.js (Angular file is assignment3.component.ts)</span
+          ></strong
+        >
+      </h4>
+      <pre><code>{{code}}</code></pre>
+    </div>
+    <div id="questions" class="col-12">
+      <h4 class="text-justify">
+        <strong><span>What I have learned in This Assignment</span></strong>
+      </h4>
+      <p class="text-justify">
+        In lab5, I learned how to draw a static sketch in p5.js, but I had no
+        idea how I could make them move for this assignment. I learned that the
+        <strong>draw()</strong> function is automatically called after the
+        <strong>setup()</strong> function, which runs once at the program’s
+        start. Then draw() loop infinitely runs the code block inside the
+        function from top to bottom. All shapes are drawn using functions such
+        as <strong>ellipse(), rect() and line()</strong>. The first thing I
+        learned about making movements was using variables.
+        <strong>Variables</strong> are a crucial component for creating movement
+        in p5.js. To make my clouds run over time, I incremented and decremented
+        the variables with each frame. I learned how to keep track of the number
+        of frames rendered by using a built-in variable called
+        <strong>frameCount()</strong>. This variable counts the number of frames
+        that have been displayed since the program started.
+      </p>
+    </div>
+  </div>
+</div>
