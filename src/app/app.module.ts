@@ -16,6 +16,7 @@ import { Lab5Component } from './lab5/lab5.component';
 // Assignments
 import { Assignment1Component } from './assignment1/assignment1.component';
 import { Assignment2Component } from './assignment2/assignment2.component';
+import { Assignment3Component } from './assignment3/assignment3.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { Assignment2Component } from './assignment2/assignment2.component';
     Assignment1Component,
     Lab5Component,
     Assignment2Component,
+    Assignment3Component,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
